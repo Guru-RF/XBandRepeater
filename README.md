@@ -16,12 +16,12 @@ git clone https://github.com/Guru-RF/XBandRepeater.git
 
 ### Audio and Radio module installation script ###
 ```console
-cd SVXRepeater
+cd XBandRepeater
 sudo bash install-radiomodule.sh
 ```
 
 ### SVXLink installation script ###
 ```console
-cd SVXRepeater
+cd XBandRepeater
 sudo bash install-svxlink.sh
 ```
